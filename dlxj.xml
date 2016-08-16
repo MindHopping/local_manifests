@@ -1,8 +1,7 @@
 <manifest>
-    <project name="MindHopping/aicp_device_htc_dlxj" path="device/htc/dlxj" revision="mm6.0" remote="github" />
+    <project name="kbc-developers/android_device_htc_dlxj" path="device/htc/dlxj" revision="cm-13.0" remote="github" />
     <project name="kbc-developers/android_device_htc_msm8960-common" path="device/htc/msm8960-common" revision="cm-13.0" remote="github" />
     <project name="kbc-developers/proprietary_vendor_htc" path="vendor/htc" revision="cm-13.0" remote="github" />
     <project name="kbc-developers/android_kernel_htc_m7wlj" path="kernel/htc/m7wlj" revision="cm-13.0" remote="github" />
-    <remove-project name="AICP/packages_apps_Nfc" />
-    <project name="tako0910/android_packages_apps_Nfc" path="packages/apps/Nfc" revision="cm-13.0" remote="github" />
+    <remove-project name="CyanogenMod/android_packages_apps_Nfc" />
 </manifest>
